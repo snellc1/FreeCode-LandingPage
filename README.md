@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://snellc1.github.io/NFT-Card/](https://snellc1.github.io/NFT-Card/)
+- Live Site URL: [https://snellc1.github.io/FreeCode-LandingPage/](https://snellc1.github.io/FreeCode-LandingPage/)
 
 ## My process
 
